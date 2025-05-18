@@ -6,7 +6,7 @@ I’m currently exploring opportunities as a Data Analyst where I can contribute
 
 When I’m not deep in data, I’m probably blogging, doodling, or finding creative ways to stay curious.
 
-## Connect with me
+## Connect with me at
 
 [LinkedIn](https://www.linkedin.com/in/yochanapreethi/) | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/yochanapreethi) | [CodeChef](https://www.codechef.com/users/yochanapreethi) | [HackerRank](https://www.hackerrank.com/yochanapreethi) | [LeetCode](https://leetcode.com/yochanapreethi)
 
