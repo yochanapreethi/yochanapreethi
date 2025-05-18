@@ -6,8 +6,6 @@ I enjoy designing interactive dashboards, visual storytelling through data, and 
 
 Beyond data, I love **blogging**, **drawing**, and other creative pursuits that fuel my curiosity and inspiration.
 
----
-
 ### Skills & Tools
 
 <p align="center">
@@ -21,27 +19,23 @@ Beyond data, I love **blogging**, **drawing**, and other creative pursuits that 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="margin:0 15px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin:0 15px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" style="margin:0 15px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg" alt="Adobe Illustrator" width="40" height="40" style="margin:0 15px"/>
 </p>
-
----
 
 ### Find me on
 
 <p align="center">
-  <a href="https://github.com/yochanapreethi" target="_blank" rel="noopener noreferrer" style="margin: 0 15px; text-decoration:none; color:#0366d6; font-weight:bold;">GitHub</a> | 
-  <a href="https://linkedin.com/in/yochanapreethi" target="_blank" rel="noopener noreferrer" style="margin: 0 15px; text-decoration:none; color:#0077b5; font-weight:bold;">LinkedIn</a> | 
-  <a href="https://medium.com/yochanapreethi" target="_blank" rel="noopener noreferrer" style="margin: 0 15px; text-decoration:none; color:#00ab6c; font-weight:bold;">Medium</a>
+  <a href="https://github.com/yochanapreethi" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; text-decoration:none; color:#0366d6; font-weight:bold;">GitHub</a> | 
+  <a href="https://linkedin.com/in/yochanapreethi" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; text-decoration:none; color:#0077b5; font-weight:bold;">LinkedIn</a> | 
+  <a href="https://medium.com/yochanapreethi" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; text-decoration:none; color:#00ab6c; font-weight:bold;">Medium</a> | 
+  <a href="https://auth.geeksforgeeks.org/user/yochanapreethi" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; text-decoration:none; color:#2d8c0f; font-weight:bold;">GeeksforGeeks</a> | 
+  <a href="https://www.codechef.com/users/yochanapreethi" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; text-decoration:none; color:#5b4638; font-weight:bold;">CodeChef</a> | 
+  <a href="https://www.hackerrank.com/yochanapreethi" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; text-decoration:none; color:#2ec866; font-weight:bold;">HackerRank</a>
 </p>
 
----
-
-### GitHub Stats
+### GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yochanapreethi&hide_border=true&layout=compact&theme=vue" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yochanapreethi&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
 
 Thank you for visiting my profile — I look forward to connecting and collaborating!
