@@ -1,41 +1,47 @@
 ## Hi, I’m Yochana Preethi 👋
 
-I’m passionate about making sense of data and turning it into clear, actionable insights. Currently, I’m deepening my knowledge in **SQL** and **Power BI**, exploring advanced techniques to become a confident data analyst.
+I’m passionate about transforming raw data into clear, actionable insights that drive smart decision-making. Currently, I’m sharpening my expertise in **SQL** and **Power BI**, diving into advanced analytics to grow as a confident data analyst.
 
-I love building dashboards, visualizing data, and telling stories that help businesses and people make better decisions. I’m actively looking for opportunities in data analysis roles where I can learn, contribute, and grow.
+I enjoy designing interactive dashboards, visual storytelling through data, and helping organizations unlock their potential. I’m actively seeking data analysis opportunities where I can contribute meaningfully and continue to develop my skills.
 
-When I’m not working on data projects, I enjoy **blogging**, **drawing**, and other creative hobbies that keep me inspired and curious.
+Beyond data, I love **blogging**, **drawing**, and other creative pursuits that fuel my curiosity and inspiration.
 
 ---
 
 ### Skills & Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" height="40" style="margin:10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40" style="margin:10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40" style="margin:10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin:10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin:10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin:10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="margin:10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="margin:10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin:10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" style="margin:10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg" alt="Adobe Illustrator" width="40" height="40" style="margin:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40" style="margin:0 15px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40" style="margin:0 15px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40" style="margin:0 15px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin:0 15px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin:0 15px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin:0 15px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="margin:0 15px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="margin:0 15px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin:0 15px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" style="margin:0 15px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg" alt="Adobe Illustrator" width="40" height="40" style="margin:0 15px"/>
 </p>
 
 ---
 
 ### Find me on
 
-[GitHub](https://github.com/yochanapreethi) | [LinkedIn](https://linkedin.com/in/yochanapreethi) | [Medium](https://medium.com/yochanapreethi)
+<p align="center">
+  <a href="https://github.com/yochanapreethi" target="_blank" rel="noopener noreferrer" style="margin: 0 15px; text-decoration:none; color:#0366d6; font-weight:bold;">GitHub</a> | 
+  <a href="https://linkedin.com/in/yochanapreethi" target="_blank" rel="noopener noreferrer" style="margin: 0 15px; text-decoration:none; color:#0077b5; font-weight:bold;">LinkedIn</a> | 
+  <a href="https://medium.com/yochanapreethi" target="_blank" rel="noopener noreferrer" style="margin: 0 15px; text-decoration:none; color:#00ab6c; font-weight:bold;">Medium</a>
+</p>
 
 ---
 
 ### GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yochanapreethi&hide_border=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yochanapreethi&hide_border=true&layout=compact&theme=vue" alt="Top Languages" />
+</p>
 
 ---
 
-Thank you for visiting my profile — let’s connect and create something great!
+Thank you for visiting my profile — I look forward to connecting and collaborating!
