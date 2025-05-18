@@ -9,27 +9,35 @@ Beyond data, I love **blogging**, **drawing**, and other creative pursuits that 
 ### Skills & Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40" style="margin:0 15px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40" style="margin:0 15px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40" style="margin:0 15px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin:0 15px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin:0 15px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin:0 15px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40" style="margin:0 15px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftexcel/microsoftexcel-original.svg" alt="MS Excel" width="40" height="40" style="margin:0 15px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40" style="margin:0 15px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="margin:0 15px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="margin:0 15px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin:0 15px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin:0 15px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin:0 15px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin:0 15px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="margin:0 15px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="margin:0 15px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" style="margin:0 15px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg" alt="Adobe Illustrator" width="40" height="40" style="margin:0 15px"/>
+</p>
+
+<p align="center" style="font-size:14px; color:#666;">
+  <strong>Data Visualization</strong> | <strong>Pandas</strong> | <strong>NumPy</strong>
 </p>
 
 ### Find me on
 
 <p align="center">
+  <a href="mailto:yochanapreethi2807@gmail.com" style="margin: 0 10px; text-decoration:none; color:#d14836; font-weight:bold;">Email</a> | 
   <a href="https://github.com/yochanapreethi" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; text-decoration:none; color:#0366d6; font-weight:bold;">GitHub</a> | 
   <a href="https://linkedin.com/in/yochanapreethi" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; text-decoration:none; color:#0077b5; font-weight:bold;">LinkedIn</a> | 
-  <a href="https://medium.com/yochanapreethi" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; text-decoration:none; color:#00ab6c; font-weight:bold;">Medium</a> | 
   <a href="https://auth.geeksforgeeks.org/user/yochanapreethi" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; text-decoration:none; color:#2d8c0f; font-weight:bold;">GeeksforGeeks</a> | 
   <a href="https://www.codechef.com/users/yochanapreethi" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; text-decoration:none; color:#5b4638; font-weight:bold;">CodeChef</a> | 
-  <a href="https://www.hackerrank.com/yochanapreethi" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; text-decoration:none; color:#2ec866; font-weight:bold;">HackerRank</a>
+  <a href="https://www.hackerrank.com/yochanapreethi" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; text-decoration:none; color:#2ec866; font-weight:bold;">HackerRank</a> | 
+  <a href="https://medium.com/yochanapreethi" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; text-decoration:none; color:#00ab6c; font-weight:bold;">Medium</a>
 </p>
 
 ### GitHub Streak
