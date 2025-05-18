@@ -13,7 +13,13 @@ When I’m not working on data projects, I enjoy **blogging**, **drawing**, and 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin:10px"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40" style="margin:10px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" alt="Power BI" width="40" height="40" style="margin:10px"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="MS Excel" width="40" height="40" style="margin:10px"/>
+  </a>
+  <a href="https://www.tableau.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Tableau_Logo.svg" alt="Tableau" width="40" height="40" style="margin:10px"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="margin:10px"/>
@@ -24,11 +30,11 @@ When I’m not working on data projects, I enjoy **blogging**, **drawing**, and 
   <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin:10px"/>
   </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.cplusplus.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin:10px"/>
   </a>
   <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin:10px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="GitHub" width="40" height="40" style="margin:10px"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="margin:10px"/>
@@ -42,19 +48,24 @@ When I’m not working on data projects, I enjoy **blogging**, **drawing**, and 
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noopener noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Adobe Illustrator" width="40" height="40" style="margin:10px"/>
   </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40" style="margin:10px"/>
-  </a>
 </p>
 
 ### Find me on
 
-[LinkedIn](https://linkedin.com/in/yochanapreethi) | [GitHub](https://github.com/yochanapreethi) | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/yochanapreethi) | [CodeChef](https://www.codechef.com/users/yochanapreethi) | [HackerRank](https://www.hackerrank.com/yochanapreethi) | [Medium](https://medium.com/yochanapreethi)
+[LinkedIn](https://linkedin.com/in/yochanapreethi) | [GitHub](https://github.com/yochanapreethi) | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/yochanapreethi) | [CodeChef](https://www.codechef.com/users/yochanapreethi) | [HackerRank](https://www.hackerrank.com/yochanapreethi)
 
-### Contact Me
+### Email
 
 📧 yochanapreethi2807@gmail.com
 
 ### GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yochanapreethi&theme=dark)
+
+### Medium
+
+[Medium](https://medium.com/yochanapreethi)
+
+---
+
+Thank you for visiting my profile — let’s connect and create something great!
