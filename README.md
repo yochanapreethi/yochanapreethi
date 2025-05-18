@@ -60,4 +60,4 @@ yochanapreethi2807@gmail.com
 
 </p>
 
-Got a minute? Check out my latest insights and musings on [Medium](https://medium.com/yochanapreethi).
+Got a minute? Check out my latest insights and musings on [Medium](https://medium.com/@yochanapreethi2807).
