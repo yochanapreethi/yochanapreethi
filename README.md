@@ -8,7 +8,7 @@ When I’m not deep in data, I’m probably blogging, doodling, or finding creat
 
 ## Connect with me
 
-[LinkedIn](https://www.linkedin.com/in/yochanapreethi/) | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/yochanapreethi) | [CodeChef](https://www.codechef.com/users/yochanapreethi) | [HackerRank](https://www.hackerrank.com/yochanapreethi) | [LeetCode](https://leetcode.com/yochanapreethi)
+[LinkedIn](https://www.linkedin.com/in/yochanapreethi/) | [LeetCode](https://leetcode.com/yochanapreethi) | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/yochanapreethi) | [CodeChef](https://www.codechef.com/users/yochanapreethi) | [HackerRank](https://www.hackerrank.com/yochanapreethi)  
 
 yochanapreethi2807@gmail.com
 
