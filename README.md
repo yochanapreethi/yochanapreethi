@@ -1,6 +1,6 @@
 # Hi, I’m Yochana Preethi
 
-I’m a data enthusiast who loves turning raw numbers into meaningful stories. With a growing skill set in Power BI, Excel, SQL, Python, and JavaScript, I enjoy building dashboards and visualizations that help people see the bigger picture.
+I’m a data enthusiast who loves turning raw numbers into meaningful stories. With a growing skill set in Power BI, Excel, SQL, and Python, I enjoy building dashboards and visualizations that help people see the bigger picture.
 
 I’m currently exploring opportunities as a Data Analyst where I can contribute, learn, and grow.
 
@@ -20,9 +20,6 @@ yochanapreethi2807@gmail.com
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
     <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="38" height="38" style="margin:8px; border:none;" />
-  </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
-    <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="30" height="30" style="margin:8px; border:none;" />
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="MS Excel" width="30" height="30" style="margin:8px; border:none;" />
