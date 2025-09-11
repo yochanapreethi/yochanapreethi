@@ -1,10 +1,9 @@
 # Hi, I’m Yochana Preethi
 
-I’m a data enthusiast who loves turning raw numbers into meaningful stories. With a growing skill set in Power BI, Excel, SQL, and Python, I enjoy building dashboards and visualizations that help people see the bigger picture.
+I’m a Data Analyst who speaks fluent **Power BI, Excel, SQL, and Python**.  
+Basically, I turn chaotic spreadsheets into dashboards that actually make sense.  
 
-I’m currently exploring opportunities as a Data Analyst where I can contribute, learn, and grow.
-
-When I’m not deep in data, I’m probably blogging, doodling, or finding creative ways to stay curious.
+When I’m not decoding data, I’m busy blogging, doodling, or arguing with pie charts about their life choices.  
 
 ## Connect with me
 
