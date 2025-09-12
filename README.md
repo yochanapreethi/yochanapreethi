@@ -1,7 +1,7 @@
 # Hi, I’m Yochana Preethi
 
-I’m a Data Analyst who speaks fluent **Power BI, Excel, SQL, and Python**.  
-Basically, I turn chaotic spreadsheets into dashboards that actually make sense.  
+I’m a Data Analyst making messy spreadsheets less confusing with **SQL, Python, Power BI, and Excel**.
+<br> Basically, I turn chaotic spreadsheets into dashboards that actually make sense.  
 
 When I’m not decoding data, I’m busy blogging, doodling, or arguing with pie charts about their life choices.  
 
