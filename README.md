@@ -1,7 +1,5 @@
 A Data Analyst simplifying messy spreadsheets with **SQL, Python, Power BI, and Excel.**
-<br> Translation: I turn raw data into dashboards that people actually understand. 
-
-When I’m not decoding data, I’m busy blogging, doodling, or arguing with pie charts about their life choices.  
+<br> Translation: I turn raw data into dashboards that people actually understand.  
 
 #### Contact 
 
