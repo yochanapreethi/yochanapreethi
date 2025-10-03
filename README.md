@@ -1,17 +1,15 @@
-# Hi, I’m Yochana Preethi
-
-I’m a Data Analyst simplifying messy spreadsheets with **SQL, Python, Power BI, and Excel.**
+A Data Analyst simplifying messy spreadsheets with **SQL, Python, Power BI, and Excel.**
 <br> Translation: I turn raw data into dashboards that people actually understand. 
 
 When I’m not decoding data, I’m busy blogging, doodling, or arguing with pie charts about their life choices.  
 
-## Connect with me
+#### Contact 
 
 [LinkedIn](https://www.linkedin.com/in/yochanapreethi/) | [LeetCode](https://leetcode.com/yochanapreethi) | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/yochanapreethi) | [CodeChef](https://www.codechef.com/users/yochanapreethi) | [HackerRank](https://www.hackerrank.com/yochanapreethi)  
 
 yochanapreethi2807@gmail.com
 
-## Tech Stack
+#### Tech Stack
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
