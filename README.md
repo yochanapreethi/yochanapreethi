@@ -1,14 +1,10 @@
 A Data Analyst simplifying messy spreadsheets with **SQL, Python, Power BI, and Excel.**
 <br> Translation: I turn raw data into dashboards that people actually understand.  
 
-#### Contact 
-
-[LinkedIn](https://www.linkedin.com/in/yochanapreethi/) | [LeetCode](https://leetcode.com/yochanapreethi) | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/yochanapreethi) | [CodeChef](https://www.codechef.com/users/yochanapreethi) | [HackerRank](https://www.hackerrank.com/yochanapreethi)  
-
+**Contact:** [LinkedIn](https://www.linkedin.com/in/yochanapreethi/) | [LeetCode](https://leetcode.com/yochanapreethi) | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/yochanapreethi) | [CodeChef](https://www.codechef.com/users/yochanapreethi) | [HackerRank](https://www.hackerrank.com/yochanapreethi)  
 yochanapreethi2807@gmail.com
 
-#### Tech Stack
-
+**Tech Stack**
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30" style="margin:8px; border:none;" />
