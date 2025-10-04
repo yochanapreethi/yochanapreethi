@@ -1,8 +1,13 @@
-A Data Analyst simplifying messy spreadsheets with **SQL, Python, Power BI, and Excel.**
-<br> Translation: I turn raw data into dashboards that people actually understand.  
+A Data Analyst simplifying messy spreadsheets with <b>SQL, Python, Power BI, and Excel.</b>
+<br>Translation: I turn raw data into dashboards that people actually understand.  
 
-**Contact:** [LinkedIn](https://www.linkedin.com/in/yochanapreethi/) | [LeetCode](https://leetcode.com/yochanapreethi) | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/yochanapreethi) | [CodeChef](https://www.codechef.com/users/yochanapreethi) | [HackerRank](https://www.hackerrank.com/yochanapreethi)  
-yochanapreethi2807@gmail.com
+<a href="https://leetcode.com/yochanapreethi" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">LeetCode</a> |
+<a href="https://auth.geeksforgeeks.org/user/yochanapreethi" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">GeeksforGeeks</a> |
+<a href="https://www.codechef.com/users/yochanapreethi" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">CodeChef</a> |
+<a href="https://www.hackerrank.com/yochanapreethi" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">HackerRank</a>
+
+<a href="https://www.linkedin.com/in/yochanapreethi/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">LinkedIn</a> |
+<a> yochanapreethi2807@gmail.com</a>
 
 **Tech Stack**
 <p align="left">
@@ -44,4 +49,4 @@ yochanapreethi2807@gmail.com
   </a>
 </p>
 
-Got a minute? Check out my latest insights and musings on [Medium](https://medium.com/@yochanapreethi2807).
+Got a minute? Check out my latest insights and musings on <a href="https://medium.com/@yochanapreethi2807" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">Medium</a>.
