@@ -1,13 +1,11 @@
 A Data Analyst simplifying messy spreadsheets with <b>SQL, Python, Power BI, and Excel.</b>
 <br>Translation: I turn raw data into dashboards that people actually understand.  
 
+<a href="https://www.linkedin.com/in/yochanapreethi/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">LinkedIn</a> |
 <a href="https://leetcode.com/yochanapreethi" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">LeetCode</a> |
 <a href="https://auth.geeksforgeeks.org/user/yochanapreethi" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">GeeksforGeeks</a> |
 <a href="https://www.codechef.com/users/yochanapreethi" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">CodeChef</a> |
 <a href="https://www.hackerrank.com/yochanapreethi" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">HackerRank</a>
-
-<a href="https://www.linkedin.com/in/yochanapreethi/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">LinkedIn</a> |
-<a> yochanapreethi2807@gmail.com</a>
 
 **Tech Stack**
 <p align="left">
