@@ -1,6 +1,4 @@
-A Data Analyst 
-
-**Tech Stack**
+Data Analyst 
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30" style="margin:8px; border:none;" />
