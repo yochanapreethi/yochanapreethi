@@ -1,5 +1,4 @@
-A Data Analyst simplifying messy spreadsheets with <b>SQL, Python, Power BI, and Excel.</b>
-<br>Translation: I turn raw data into dashboards that people actually understand.  
+A Data Analyst 
 
 **Tech Stack**
 <p align="left">
