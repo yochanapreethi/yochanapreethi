@@ -1,4 +1,4 @@
-Data Analyst 
+learning and working with data
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
