@@ -1,4 +1,5 @@
 Data Analyst 
+
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30" style="margin:8px; border:none;" />
@@ -37,5 +38,3 @@ Data Analyst
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Adobe Illustrator" width="30" height="30" style="margin:8px; border:none;" />
   </a>
 </p>
-
-Got a minute? Check out my latest insights and musings on <a href="https://medium.com/@yochanapreethi2807" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">Medium</a>.
